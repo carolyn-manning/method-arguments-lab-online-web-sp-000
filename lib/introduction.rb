@@ -1,5 +1,5 @@
 def intoduction(name)
-  puts "Hi, my nsmr is #{name}"
+  puts "Hi, my name is #{name}"
 end
 
 def intoduction_with_language(name, language)
